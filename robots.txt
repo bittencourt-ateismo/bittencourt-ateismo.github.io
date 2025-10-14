@@ -1,0 +1,4 @@
+Sitemap: https://bittencourt-ateismo.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
