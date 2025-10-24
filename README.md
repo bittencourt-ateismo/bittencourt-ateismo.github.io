@@ -1,1 +1,5 @@
-This is not a commercial, but an educational website. Its goal is to promote freethinking. 
+Ateísmo, Humanismo y Libre Pensamiento. 
+
+Libro “Liberto de la Religión”, de Paulo Bittencourt. 
+
+Visite: https://bittencourt-ateismo.github.io 
