@@ -473,4 +473,6 @@ ul, ol { margin-left: -19px; }
 		margin-left: 40px;
 		text-indent: -40px;
 	}
+
+	.quote { text-indent: -0.95ch; }
 }
