@@ -88,7 +88,7 @@ a
 	font-size: 1.05rem;
 	letter-spacing: 0.01rem;
 	line-height: 1.15;
-	margin: 5px 0px;
+	margin: 7px 0px;
 	text-align: center;
 	text-wrap: balance;
 }
@@ -460,12 +460,11 @@ ul, ol { margin-left: -19px; }
 
 	.below-covers { margin-top: -11px; }
 	.covers { width: 55%; }
-	.index-links { margin-top: 24px; }
 
 	.index-links h5
 	{
 		font-size: 1rem;
-		margin: 7px 0px;
+		line-height: 1.55;
 	}
 
 	.navigation-button
@@ -514,7 +513,4 @@ ul, ol { margin-left: -19px; }
 		margin-left: 40px;
 		text-indent: -40px;
 	}
-
-	.quote { text-indent: -0.75ch; }
-	.quote-below-copyright { text-indent: -0.75ch; }
 }
