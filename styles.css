@@ -175,7 +175,7 @@ cite { font-style: normal; }
 	margin-top: 19px;
 }
 
-.content { padding: 0px 39px 33px 39px; }
+.content { padding: 0px 39px 36px 39px; }
 
 .copyright
 {
@@ -373,11 +373,18 @@ li:not(:first-child) { margin-top: 5px; }
 .navigation-bottom
 {
 	display: grid;
-	font-size: 1.5rem;
 	grid-template-columns: 1fr 1fr 1fr;
 	line-height: 1;
-	margin-top: 20px;
+	margin-top: 22px;
 }
+
+.navigation-bottom-button
+{
+	font-size: 1.14rem;
+	text-align: center;
+}
+
+.navigation-bottom-arrows { font-size: 1.14rem; }
 
 .navigation-bottom-pagination
 {
@@ -554,7 +561,7 @@ ul
 		margin: 0px;
 	}
 
-	.content { padding: 0px 14px 17px 14px; }
+	.content { padding: 0px 14px 16px 14px; }
 
 	.covers
 	{
@@ -573,11 +580,13 @@ ul
 		paint-order: stroke fill;
 	}
 
-	.navigation-bottom
+	.navigation-bottom { margin-top: 23px; }
+	.navigation-bottom-button { font-size: 1.2rem; }
+
+	.navigation-bottom-arrows
 	{
-		font-size: 1.15rem;
-		line-height: 1.15;
-		margin-top: 22px;
+		font-size: 1.4rem;
+		line-height: 0.9;
 	}
 
 	.navigation-bottom-pagination { line-height: 1.2; }
