@@ -1,4 +1,11 @@
 @font-face {
+    font-family: 'Signature';
+    src: url('media/Font-Signature.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
     font-family: 'Constantia';
     src: url('media/Font-Constantia.woff2') format('woff2');
     font-weight: normal;
@@ -45,13 +52,6 @@
     src: url('media/Font-Roboto-Italic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Signature';
-    src: url('media/Font-Signature.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
     font-display: swap;
 }
 
@@ -255,9 +255,9 @@ h1
 h2
 {
 	font-family: 'Signature', Georgia, Serif;
-	font-size: 2.6rem;
+	font-size: 3rem;
 	font-weight: normal;
-	margin: -5px 0px 0px 0px;
+	margin: -7px 0px 0px 0px;
 	text-wrap: balance;
 }
 
@@ -266,7 +266,7 @@ h3
 	font-family: 'Roboto', Sans-Serif;
 	font-size: 1.2rem;
 	line-height: 1.1;
-	margin: -12px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
 	text-wrap: balance;
 }
 
@@ -1203,5 +1203,25 @@ ul
 {
 	.container { background-position: center -37px; }
 	.logo { width: 125px; }
+}
+*/
+
+/*
+{
+	font-family: 'Constantia', Georgia, Serif;
+	font-size: 1.4rem;
+	letter-spacing: -0.02rem;
+	margin: -3px 0px 0px 0px;
+	text-wrap: balance;
+}
+
+
+h3
+{
+	font-family: 'Roboto', Sans-Serif;
+	font-size: 1.2rem;
+	line-height: 1.1;
+	margin: -2px 0px 0px 0px;
+	text-wrap: balance;
 }
 */
