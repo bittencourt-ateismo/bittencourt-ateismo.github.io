@@ -54,3 +54,16 @@ Solo en portugués:
 <a href="https://bittencourt-pt.pages.dev/fotografia">As Fotografias de Paulo Bittencourt</a>
 
 <a href="https://bittencourt-pt.pages.dev/sobrenome">Origem e Significado do Sobrenome Bittencourt</a>
+
+
+Solo en inglés:
+
+<a href="https://bittencourt.pages.dev/jesus">Christianity is a Cult</a>
+
+<a href="https://bittencourt.pages.dev/religions">The Main Types of Religious Harm</a>
+
+<a href="https://bittencourt.pages.dev/patriarchy">Christianity and Islam Oppress Women</a>
+
+<a href="https://bittencourt.pages.dev/jean-meslier-testament">The Testament of Jean Meslier</a>
+
+<a href="https://bittencourt.pages.dev/best-quotes">Paulo Bittencourt’s Best Quotes</a>
