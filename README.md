@@ -64,6 +64,8 @@ Solo en inglés:
 
 <a href="https://bittencourt.pages.dev/patriarchy">Christianity and Islam Oppress Women</a>
 
+<a href="https://bittencourt.pages.dev/cognitive-dissonance">Evangelical Church of Cognitive Dissonance</a>
+
 <a href="https://bittencourt.pages.dev/jean-meslier-testament">The Testament of Jean Meslier</a>
 
 <a href="https://bittencourt.pages.dev/best-quotes">Paulo Bittencourt’s Best Quotes</a>
