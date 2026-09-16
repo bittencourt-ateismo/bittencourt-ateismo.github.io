@@ -58,6 +58,8 @@ Solo en portugués:
 
 Solo en inglés:
 
+<a href="https://bittencourt.pages.dev/scripture">The Word of Flawed</a>
+
 <a href="https://bittencourt.pages.dev/jesus">Christianity is a Cult</a>
 
 <a href="https://bittencourt.pages.dev/religions">The Main Types of Religious Harm</a>
