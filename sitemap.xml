@@ -1,42 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://bittencourt-es.pages.dev/</loc>
-</url>
-<url>
-  <loc>https://bittencourt-es.pages.dev/libro</loc>
-</url>
-<url>
-  <loc>https://bittencourt-es.pages.dev/libre-pensamiento</loc>
-</url>
-<url>
-  <loc>https://bittencourt-es.pages.dev/humanismo</loc>
-</url>
-<url>
-  <loc>https://bittencourt-es.pages.dev/ateismo</loc>
-</url>
-<url>
-  <loc>https://bittencourt-es.pages.dev/trauma-religioso</loc>
-</url>
-<url>
-  <loc>https://bittencourt-es.pages.dev/citas</loc>
-</url>
-<url>
-  <loc>https://bittencourt-es.pages.dev/librepensamiento</loc>
-</url>
-<url>
-  <loc>https://bittencourt-es.pages.dev/paulo-biografia</loc>
-</url>
-<url>
-  <loc>https://bittencourt-es.pages.dev/contacto</loc>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!--
+Created with IncludeHelp XML Sitemap Generator
+https://www.includehelp.com/tools/xml-sitemap-generator.aspx
+ -->
+  <url>
+    <loc>https://bittencourt-es.pages.dev/ateismo</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/citas</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/contacto</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/humanismo</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/index</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/libre-pensamiento</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/librepensamiento</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/libro</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/paulo-biografia</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/README.md</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/sitemap.xml</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/trauma-religioso</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/container-background.jpg</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/libre-pensamiento-humanismo-ateismo-liberto-de-la-religion-paulo-bittencourt.svg</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/Libro-Liberto-de-la-Religion-Muestra.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/libro-liberto-de-la-religion-paulo-bittencourt.jpg</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/paulo-bittencourt-frase-no-hay-placer-mayor-que-ser-un-librepensador.jpg</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/paulo-bittencourt-frase-no-quiero-creer-quiero-saber.jpg</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/paulo-bittencourt-libre-pensamiento-humanismo-ateismo.gif</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/paulo-bittencourt-libro-libre-pensamiento-humanismo-ateismo.jpg</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/paulo-bittencourt-website.jpg</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/paulo-bittencourt.svg</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/video-paulo-bittencourt-libro.jpg</loc>
+  </url>
+  <url>
+    <loc>https://bittencourt-es.pages.dev/media/video-paulo-bittencourt-libro.mp4</loc>
+  </url>
 </urlset>
