@@ -1,61 +1,61 @@
 @font-face {
     font-family: 'Signature';
-    src: url('media/Font-Signature.woff2') format('woff2');
+    src: url('media/fonts/Font-Signature.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Constantia';
-    src: url('media/Font-Constantia.woff2') format('woff2');
+    src: url('media/fonts/Font-Constantia.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Constantia';
-    src: url('media/Font-Constantia-Bold.woff2') format('woff2');
+    src: url('media/fonts/Font-Constantia-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Constantia';
-    src: url('media/Font-Constantia-Italic.woff2') format('woff2');
+    src: url('media/fonts/Font-Constantia-Italic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Constantia';
-    src: url('media/Font-Constantia-Italic-Bold.woff2') format('woff2');
+    src: url('media/fonts/Font-Constantia-Italic-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Roboto';
-    src: url('media/Font-Roboto.woff2') format('woff2');
+    src: url('media/fonts/Font-Roboto.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Roboto';
-    src: url('media/Font-Roboto-Semi-Bold.woff2') format('woff2');
+    src: url('media/fonts/Font-Roboto-Semi-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Roboto';
-    src: url('media/Font-Roboto-Italic.woff2') format('woff2');
+    src: url('media/fonts/Font-Roboto-Italic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Roboto';
-    src: url('media/Font-Roboto-Italic-Semi-Bold.woff2') format('woff2');
+    src: url('media/fonts/Font-Roboto-Italic-Semi-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
