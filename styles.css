@@ -587,7 +587,7 @@ ul
 		padding: 0px;
 	}
 
-	.below-covers { margin: 7px 0px 0px 0px; }
+	.below-covers { margin: 18px 0px 0px 0px; }
 
 	.container
 	{
@@ -599,8 +599,8 @@ ul
 
 	.covers
 	{
-		margin-top: 16px;
-		width: 60%;
+		margin-top: 27px;
+		width: 100%;
 	}
 
 	.guitar { display: none; }
