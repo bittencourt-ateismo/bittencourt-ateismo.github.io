@@ -101,7 +101,7 @@ img.below-copyright
 
 .below-covers
 {
-	margin: 4px 0px 0px 0px;
+	margin: 17px 0px 0px 0px;
 	text-indent: 0px;
 }
 
@@ -199,8 +199,8 @@ cite { font-style: normal; }
 
 .covers
 {
-	margin-top: 13px;
-	width: 40%;
+	margin-top: 26px;
+	width: 70%;
 }
 
 figure { margin: 0px; }
