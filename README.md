@@ -16,6 +16,8 @@ Atheismus, Humanismus und Freidenkertum — Bücher “Liberated from Religion�
 
 <a href="https://bittencourt.pages.dev/atheism-kills">The Dangers of Atheism</a>
 
+<a href="https://bittencourt.pages.dev/morality">Does Morality Come from God?</a>
+
 <a href="https://bittencourt.pages.dev/bible">A Book Full of Perversities</a>
 
 <a href="https://bittencourt.pages.dev/scripture">The Book That Killed Millions</a>
